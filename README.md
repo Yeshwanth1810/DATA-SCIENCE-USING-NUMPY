@@ -22,5 +22,6 @@ This repository contains numpys use for data science,for further understanding o
 # Made by:
 
 Name:Kolli Yeshwanth Venkat Kumar
+
 linkedin profile:https://www.linkedin.com/in/yeshwanth-kolli-4bb5492a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
