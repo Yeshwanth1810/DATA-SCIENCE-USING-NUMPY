@@ -6,8 +6,14 @@ NumPy (Numerical Python) is an essential library for numerical computing in Pyth
 
 # Features
 Array Operations: Basic operations and manipulations on NumPy arrays.
+
 Statistical Analysis: Computing descriptive statistics and performing hypothesis testing.
+
 Data Cleaning: Techniques for handling missing values and data transformations.
+
 Mathematical Functions: Usage of NumPy's mathematical functions for data analysis.
+
 Integration with Pandas: Combining NumPy with Pandas for enhanced data manipulation.
+
 Visualization: Generating plots and charts using NumPy arrays and Matplotlib.
+
